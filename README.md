@@ -1,4 +1,4 @@
-# 🎵 Soundwave Music Player
+# Soundwave Music Player
 
 > A modern, cross-platform music player application built with React, TypeScript, and Capacitor. Stream, manage, and enjoy your music library across web, desktop, and mobile devices.
 
