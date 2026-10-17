@@ -46,7 +46,7 @@ Soundwave is a music player for streaming and managing your own library. It runs
 - Native media controls on Android
 
 <div align="center">
-  <img src="https://i.ibb.co/8n0wQRPr/Screenshot-2026-06-14-181010.png" alt="Soundwave across devices" width="100%" />
+  <img src="https://i.ibb.co/8T3jwmN/Screenshot-2026-10-17-113702.png" alt="Soundwave across devices" width="100%" />
 </div>
 
 ---
