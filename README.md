@@ -536,16 +536,11 @@ Example: feat(player): add shuffle mode
 
 ## 🚦 Roadmap
 
-- [ ] iOS mobile support via Capacitor
-- [ ] Spotify integration
-- [ ] Apple Music integration
+- [ ] Mobile support via Capacitor
 - [ ] Advanced audio equalizer
 - [ ] Collaborative playlists
-- [ ] Social features (follow users, comments)
-- [ ] Offline sync improvements
 - [ ] Desktop app auto-updates
 - [ ] Advanced analytics dashboard
-- [ ] Premium subscription tier
 
 <div align="center">
   <img src="./src/images/logo.png" alt="Future Features" width="150" height="auto" style="margin: 30px 0;" />
