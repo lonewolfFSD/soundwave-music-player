@@ -221,7 +221,7 @@ Private and proprietary. All rights reserved.
 
 ## Contact
 
-- Email: [support@lonewolffsd.in](mailto:support@lonewolffsd.in)
+- Email: [support@itzajx.in](mailto:support@itzajx.in)
 - Website: [soundwave.lonewolffsd.in](https://soundwave.lonewolffsd.in)
 - Issues: [GitHub Issues](https://github.com/lonewolffsd/soundwave/issues)
 
